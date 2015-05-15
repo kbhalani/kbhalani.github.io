@@ -1,0 +1,16 @@
+body {
+	background-color: #3399FF
+	color:#FFA319;
+	text-align: left;
+}
+
+h1 {
+	color: #000000 
+	text-align: center;
+}
+
+#slogan {
+	color: Orange
+	font-style: "Comic Sans MS", cursive, sans-serif;
+	text-align: center;
+}
