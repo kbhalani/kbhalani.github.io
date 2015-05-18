@@ -2,21 +2,22 @@
 @import url(http://fonts.googleapis.com/css?family=Exo+2:400,800);
 
 body {
-	background-color: #3399FF
+	background-color: #3399FF;
 	color:#FFA319;
 	text-align: center;
 	background-image: url("smokebackground.jpg");
 	background-size: cover;
+	background-repeat:no-repeat;
 }
 
 h1 {
-	color: #000000 
+	color: #ffffff;
 	text-align: center;
 	font-family: 'Exo 2', sans-serif;
 }
 
 #slogan {
-	color: Orange
+	color: Orange;
 	font-style: "Comic Sans MS", cursive, sans-serif;
 	text-align: center;
 	font-family: 'Rock Salt', cursive;
