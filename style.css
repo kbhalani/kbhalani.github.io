@@ -4,8 +4,9 @@
 body {
 	background-color: #3399FF
 	color:#FFA319;
-	text-align: left;
+	text-align: center;
 	background-image: url("smokebackground.jpg");
+	background-size: cover;
 }
 
 h1 {
