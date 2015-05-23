@@ -2,10 +2,9 @@
 @import url(http://fonts.googleapis.com/css?family=Exo+2:400,800);
 
 body {
-	background-color: #3399FF;
-	color:#FFA319;
+	background-color: #FFFFFF;
 	text-align: center;
-	background-image: url("smokebackground.jpg");
+	background-image: url("pictures/smokebackground.jpg");
 	background-size: cover;
 	background-repeat:no-repeat;
 }
